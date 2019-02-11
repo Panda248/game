@@ -1,9 +1,11 @@
-import pygame
+#notes
 
-pygame.__init__()
+var = 10
+var = "hi"
+list = [a,b,c]
 
-x = 10
-
-if x == 10:
+if x == 10 and b == 6 or x == 7:
   print("yeet")
-
+for x in list:
+  if x == "a":
+    print("yate")
